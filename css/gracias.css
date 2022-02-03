@@ -1,0 +1,17 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,  hsla(276, 65%, 60%, 0.459), hsla(340, 89%, 76%, 0.459));
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,  hsla(175, 100%, 14%, 0.459), hsla(204, 64%, 48%, 0.459));
+}
+h1{
+text-align: center;
+font-size: 100px;
+}
+img{
+    width: 20%;
+    height: 20%;
+    display:block;
+margin:auto;
+}
